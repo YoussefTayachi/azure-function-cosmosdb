@@ -62,9 +62,15 @@ It accepts HTTP requests, inserts data into Cosmos DB, and reads the stored item
 
 ## 📷 Screenshots
 
-- Azure Function running locally  
-- Cosmos DB document output in Azure Portal  
-(Save screenshots in the `images/` folder and embed if needed)
+- ⚙️ Function running  
+  ![Function running](images/function-running.png)
+
+- 🌐 Cosmos DB HTTP Response  
+  ![Cosmos Output](images/cosmos-browser-output.png)
+
+- 📄 Azure Cosmos DB Resource JSON  
+  ![Cosmos JSON Resource](images/cosmos-resource-json.png)
+
 
 ## 📁 Project Structure
 

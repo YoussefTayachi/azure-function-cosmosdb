@@ -69,7 +69,7 @@ It accepts HTTP requests, inserts data into Cosmos DB, and reads the stored item
   ![Cosmos Output](images/browser-output.png)
 
 - 📄 Azure Cosmos DB Resource JSON  
-  ![Cosmos JSON Resource](images/cosmos-resource-json.png)
+  ![Cosmos JSON Resource](images/cosmos-resource-json.PNG)
 
 
 ## 📁 Project Structure

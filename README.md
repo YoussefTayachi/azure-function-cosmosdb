@@ -63,10 +63,10 @@ It accepts HTTP requests, inserts data into Cosmos DB, and reads the stored item
 ## 📷 Screenshots
 
 - ⚙️ Function running  
-  ![Function running](images/function-running.png)
+  ![Function running](images/functions-running.png)
 
 - 🌐 Cosmos DB HTTP Response  
-  ![Cosmos Output](images/cosmos-browser-output.png)
+  ![Cosmos Output](images/browser-output.png)
 
 - 📄 Azure Cosmos DB Resource JSON  
   ![Cosmos JSON Resource](images/cosmos-resource-json.png)
